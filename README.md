@@ -29,9 +29,10 @@ Adaptation pour reconnaissance dans Domoticz : Dans le fichier PubSubClient.h : 
 Dans la suite des créations d'objets connectés, nous allons voir dans cette vidéo, comment créer un détecteur de température autonome. L’objet connecté fonctionne via MQTT, et transmet ses informations à Domoticz. Pour rappel, nous utilisons ici Domoticz, mais le code est fourni, et peut être facilement adapté pour d’autre logiciel de domotique.
 
 ## Soft et bibliothèques à installer :
-Driver USB CH340G : https://wiki.wemos.cc/downloads
-Logiciel Arduino IDE : https://www.arduino.cc/en/Main/Software
-URL à ajouter pour le Bord manager : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Driver USB CH340G : https://wiki.wemos.cc/downloads
+- Logiciel Arduino IDE : https://www.arduino.cc/en/Main/Software
+- URL à ajouter pour le Bord manager : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 Installer la prise en charge des cartes ESP8266
 
 Bibliothéques :
