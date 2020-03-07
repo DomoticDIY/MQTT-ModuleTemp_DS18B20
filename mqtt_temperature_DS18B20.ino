@@ -1,6 +1,6 @@
 
 /*
- ESP8266 MQTT - Déclenchement d'un relais
+ ESP8266 MQTT - Relevé de température via DS10B20
  Création Dominique PAUL.
  Dépot Github : https://github.com/DomoticDIY/MQTT-ModuleTemp_DS18B20
  Chaine YouTube du Tuto Vidéo : https://www.youtube.com/c/DomoticDIY
